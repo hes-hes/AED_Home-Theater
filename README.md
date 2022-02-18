@@ -1,3 +1,3 @@
 # AED_Home-Theater
 
-#### Algorithms and Data Structures - Java program
+#### Algorithms and Data Structures - Java project
